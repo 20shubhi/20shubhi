@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=20shubhi&label=Profile%20views&color=0e75b6&style=flat" alt="20shubhi" /> </p>
+
 # 👋 Hey, This is @Shubhi Srivastava. 
  -  BTech(Bachelor's of Technology in Electricals and Electronics----2024).🎓
  - Galgotias College of Engineering & Technology , Greater Noida.
