@@ -14,5 +14,5 @@
  - Data science Projects and Technologies...
 # 📫 How to reach me ... 
  - email - shubhisrivastava2001@gmail.com .
- - linkedin - [Shubhi Srivastava]([https://www.linkedin.com/in/shubhi-srivastava-57b505214/)
+ - linkedin - [Shubhi Srivastava](https://www.linkedin.com/in/shubhi-srivastava-57b505214/)
 
