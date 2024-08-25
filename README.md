@@ -1,20 +1,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=20shubhi&label=Profile%20views&color=0e75b6&style=flat" alt="20shubhi" /> </p>
 
-# 👋 Hey, This is @Shubhi Srivastava. 
- -  BTech(Bachelor's of Technology in Electricals and Electronics----2024).🎓
- - Galgotias College of Engineering & Technology , Greater Noida.
- - Aspiring Data Scientist & ML Engineer.
-# 📚 I’m interested in ... 
- - Data Science And Machine learning 🤖 
- - Machine learning , Artificial Intelligence & NLP and Power Bi...
-# 🌱 My Skills are...
-- Python(B+A) , HTML, CSS, Javascript, Artificial Intelligence, MySQL, Machine learning, NLP, Power Bi ,Microsoft Office Suite...
-# 💻 I’m currently learning ... 
+# Hola, I am Shubhi Srivastava. 
+ - B.Tech Graduate in Electrical and Electronics Engineering(2024).
+ - Galgotias College of Engineering & Technology, Greater Noida.
+ - Aspiring Software Engineer.
+# Interest 
+ - Data Science 
+ - Python, Machine learning, Artificial Intelligence, NLP, and Power BI
+# ![image](https://github.com/user-attachments/assets/8f8b7692-535b-43bf-ba64-46083973f16b) Skills 
+- Python, HTML, CSS, Javascript, Artificial Intelligence, MySQL, Machine learning, NLP, Power BI, Microsoft Office Suite
+# Currently Learning 
  - Data Science, ML, Tableau 
-# 💞️ I’m looking to collaborate on ... 
- - open source projects and get started with open source technologies..
- - Data science Projects and Technologies...
-# 📫 How to reach me ... 
- - email - shubhisrivastava2001@gmail.com .
- - linkedin - [Shubhi Srivastava](https://www.linkedin.com/in/shubhi-srivastava-57b505214/)
+# Collaboration Interest
+ - Open Source projects and get started with open source technologies.
+ - Data science Projects and Technologies
+# ![image](https://github.com/user-attachments/assets/dbbd69c5-a192-4933-a455-f5d11c4ba38d) Contact
+ - Email: shubhisrivastava2001@gmail.com
+ - LinkedIn: [Shubhi Srivastava](https://www.linkedin.com/in/shubhi-srivastava-57b505214/)
 
