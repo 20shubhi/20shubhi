@@ -6,11 +6,11 @@
  - Aspiring Data Scientist
 # Interest 
  - Data Science 
- - Python, Machine learning, and Power BI
+ - Python, Machine Learning, and Power BI
 # Skills 
-- Python, HTML, CSS, JavaScript, MySQL, Machine learning, Power BI, Tableau, Excel, Descriptive Statistics, Probability, Python Libraries, Microsoft Office Suite
+- Python, HTML, CSS, JavaScript, MySQL, Machine Learning, Power BI, Tableau, Excel, Descriptive Statistics, Probability, Python Libraries, Microsoft Office Suite
 # Currently Learning 
- - Data Science, ML, Tableau 
+ - Data Science, Machine Learning, Tableau 
 # Collaboration Interest
  - Open-source projects, to begin exploring and working with open-source technologies.
  - Data Science projects and technologies
