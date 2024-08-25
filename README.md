@@ -3,7 +3,7 @@
 # 👋 Hey, This is @Shubhi Srivastava. 
  -  BTech(Bachelor's of Technology in Electricals and Electronics----2024).🎓
  - Galgotias College of Engineering & Technology , Greater Noida.
- - Data Scientist & ML Engineer.
+ - Aspiring Data Scientist & ML Engineer.
 # 📚 I’m interested in ... 
  - Data Science And Machine learning 🤖 
  - Machine learning , Artificial Intelligence & NLP and Power Bi...
