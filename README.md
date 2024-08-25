@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=20shubhi&label=Profile%20views&color=0e75b6&style=flat" alt="20shubhi" /> </p>
 
-# Hola, I am Shubhi Srivastava. 
+# Hola! I am Shubhi Srivastava. 
  - B.Tech in Electrical and Electronics Engineering, 2024
  - Galgotias College of Engineering & Technology, Greater Noida
  - Aspiring Data Scientist
